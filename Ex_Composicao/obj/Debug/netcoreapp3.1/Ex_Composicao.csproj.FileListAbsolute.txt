@@ -1,0 +1,13 @@
+C:\Users\naiap\source\repos\Ex_Composicao\Ex_Composicao\bin\Debug\netcoreapp3.1\Ex_Composicao.exe
+C:\Users\naiap\source\repos\Ex_Composicao\Ex_Composicao\bin\Debug\netcoreapp3.1\Ex_Composicao.deps.json
+C:\Users\naiap\source\repos\Ex_Composicao\Ex_Composicao\bin\Debug\netcoreapp3.1\Ex_Composicao.runtimeconfig.json
+C:\Users\naiap\source\repos\Ex_Composicao\Ex_Composicao\bin\Debug\netcoreapp3.1\Ex_Composicao.runtimeconfig.dev.json
+C:\Users\naiap\source\repos\Ex_Composicao\Ex_Composicao\bin\Debug\netcoreapp3.1\Ex_Composicao.dll
+C:\Users\naiap\source\repos\Ex_Composicao\Ex_Composicao\bin\Debug\netcoreapp3.1\Ex_Composicao.pdb
+C:\Users\naiap\source\repos\Ex_Composicao\Ex_Composicao\obj\Debug\netcoreapp3.1\Ex_Composicao.csprojAssemblyReference.cache
+C:\Users\naiap\source\repos\Ex_Composicao\Ex_Composicao\obj\Debug\netcoreapp3.1\Ex_Composicao.csproj.CoreCompileInputs.cache
+C:\Users\naiap\source\repos\Ex_Composicao\Ex_Composicao\obj\Debug\netcoreapp3.1\Ex_Composicao.AssemblyInfoInputs.cache
+C:\Users\naiap\source\repos\Ex_Composicao\Ex_Composicao\obj\Debug\netcoreapp3.1\Ex_Composicao.AssemblyInfo.cs
+C:\Users\naiap\source\repos\Ex_Composicao\Ex_Composicao\obj\Debug\netcoreapp3.1\Ex_Composicao.dll
+C:\Users\naiap\source\repos\Ex_Composicao\Ex_Composicao\obj\Debug\netcoreapp3.1\Ex_Composicao.pdb
+C:\Users\naiap\source\repos\Ex_Composicao\Ex_Composicao\obj\Debug\netcoreapp3.1\Ex_Composicao.genruntimeconfig.cache
