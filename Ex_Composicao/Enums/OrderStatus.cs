@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Ex_Composicao.Enum
+namespace Ex_Composicao.Enums
 {
     enum OrderStatus : int
     {
